@@ -98,8 +98,8 @@ src/
 
 ## Notas importantes
 
-- **Sin base de datos** (requisito del proyecto cumplido ✅)
-- El árbol AVL fue implementado manualmente sin librerías externas ✅
+- Sin base de datos
+- El árbol AVL fue implementado manualmente sin librerías externas 
 - Clave de ordenamiento: **nombre de canción** (case-insensitive)
 - Al iniciar se cargan 7 canciones de ejemplo automáticamente
-- Timeout de 10s y 3 reintentos en conexión con API externa (+3 pts extra) ✅
+- Timeout de 10s y 3 reintentos en conexión con API externa 
